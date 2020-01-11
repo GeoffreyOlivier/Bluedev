@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ac560a9-c572-4261-a3f2-0e54ef7b711b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/bluedev/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/bluedev/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/composer" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/bluedev/vendor/symfony/polyfill-php73" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Sjr9PTWpDJnN84Nzq48Y0TjrmH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bluedev\src\Controller" />
+      <recent name="C:\xampp\htdocs\bluedev\public\images" />
+      <recent name="C:\xampp\htdocs\bluedev\public\images\icones" />
+      <recent name="C:\xampp\htdocs\bluedev\templates" />
+      <recent name="C:\xampp\htdocs\bluedev\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac560a9-c572-4261-a3f2-0e54ef7b711b" name="Default Changelist" comment="" />
+      <created>1572087693122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572087693122</updated>
+      <workItem from="1572087694252" duration="6785000" />
+      <workItem from="1572111036017" duration="857000" />
+      <workItem from="1572172274622" duration="3224000" />
+      <workItem from="1572175830161" duration="3258000" />
+      <workItem from="1572188166706" duration="9169000" />
+      <workItem from="1572257527986" duration="5441000" />
+      <workItem from="1572273338171" duration="599000" />
+      <workItem from="1572279533009" duration="4886000" />
+      <workItem from="1572339170308" duration="1260000" />
+      <workItem from="1572597790983" duration="605000" />
+      <workItem from="1573482937446" duration="3362000" />
+      <workItem from="1573571132647" duration="704000" />
+      <workItem from="1573817693948" duration="2450000" />
+      <workItem from="1573999424190" duration="1983000" />
+      <workItem from="1574069780552" duration="10149000" />
+      <workItem from="1574155754637" duration="8814000" />
+      <workItem from="1574243511026" duration="5005000" />
+      <workItem from="1574264501955" duration="90000" />
+      <workItem from="1574334404577" duration="6263000" />
+      <workItem from="1574357455678" duration="2756000" />
+      <workItem from="1574415330458" duration="652000" />
+      <workItem from="1574884785500" duration="1062000" />
+      <workItem from="1574886989328" duration="250000" />
+      <workItem from="1574933828904" duration="3049000" />
+      <workItem from="1575199736849" duration="3483000" />
+      <workItem from="1575815867456" duration="1358000" />
+      <workItem from="1575888845381" duration="1106000" />
+      <workItem from="1576921920528" duration="1821000" />
+      <workItem from="1577613487582" duration="1834000" />
+      <workItem from="1578046204802" duration="657000" />
+      <workItem from="1578576984637" duration="3793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

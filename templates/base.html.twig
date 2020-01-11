@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<title>Accent Website Template by Colorlib</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{% block stylesheets %}
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+<link rel="stylesheet" href={{ asset("fonts/icomoon/style.css") }}>
+<link rel="stylesheet" href={{ asset("css/animate.css") }}>
+<link rel="stylesheet" href={{ asset("css/owl.carousel.min.css") }}>
+<link rel="stylesheet" href={{ asset("css/owl.theme.default.min.css") }}>
+<link rel="stylesheet" href={{ asset("css/bootstrap-datepicker.css") }}>
+<link rel="stylesheet" href={{ asset("fonts/flaticon/font/flaticon.css") }}>
+<link rel="stylesheet" href={{ asset("css/aos.css") }}>
+<link rel="stylesheet" href={{ asset("css/jquery.fancybox.min.css") }}>
+<link rel="stylesheet" href={{ asset("css/bootstrap.min.css") }}>
+<link rel="stylesheet" href={{ asset("css/style.css") }}>
+<link rel="stylesheet" href={{ asset("css/feuille.css") }}>
+
+{% endblock %}
+
+
+
+<html>
+    <head>
+
+
+        <meta charset="UTF-8">
+{#        <title>{% block title %}Welcome!{% endblock %}</title>#}
+
+    </head>
+    <body>
+    {% include 'inc/modal.html.twig' %}
+    {% include 'inc/nav.html.twig' %}
+    {% block body %}{% endblock %}
+    {% include 'inc/footer.html.twig' %}
+    </body>
+</html>
+{% block javascripts %}
+<script src="{{ asset('js/popper.min.js') }}"></script>
+<script src="{{ asset('js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
+<script src="{{ asset('js/owl.carousel.min.js') }}"></script>
+<script src="{{ asset('js/aos.js') }}"></script>
+<script src="{{ asset('js/jquery.sticky.js') }}"></script>
+<script src="{{ asset('js/stickyfill.min.js') }}"></script>
+<script src="{{ asset('js/jquery.easing.1.3.js') }}"></script>
+
+<script src="{{ asset('js/jquery.fancybox.min.js') }}"></script>
+<script src="{{ asset('js/main.js') }}" ></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+{% endblock %}
