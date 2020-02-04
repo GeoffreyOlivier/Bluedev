@@ -1,0 +1,5 @@
+Titre photo: Cat_Unreal_1
+En tête: Modèle Cat sur Unreal Engine 4
+Texte: Modèle Cat texturé et importé dans l'Unreal Engine 4. 
+Création d'un level design low poly et programation des animations du personnages et création d'un système de score.
+Tous les modèles 3D visible ont été modélisé et texturé dans Blender 2.8.
